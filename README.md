@@ -10,8 +10,8 @@ It helps farmers access data-driven insights and solutions using AI and modern w
 - **React** (frontend library)
 - **Vite** (fast development and build tool)
 - **Tailwind CSS** (modern utility-first styling)
-- **Node.js / Express** (backend API, optional)
-- **PostgreSQL / MongoDB** (database layer)
+- **Node.js** (backend API, optional)
+- **MongoDB** (database layer)
 
 ---
 
